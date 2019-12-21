@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Architecture Component</string>
+    <string name="empty_name">ajy</string>
+    <string name="action_delete_all">Delete All</string>
+</resources>
