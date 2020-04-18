@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArchitectureComponentWithMVVM.iml" filepath="$PROJECT_DIR$/ArchitectureComponentWithMVVM.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArchitectureComponentWithMVVM.iml" filepath="$PROJECT_DIR$/ArchitectureComponentWithMVVM.iml" group="ArchitectureComponentWithMVVM" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ArchitectureComponentWithMVVM/app" />
     </modules>
   </component>
 </project>
